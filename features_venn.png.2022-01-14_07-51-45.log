@@ -1,0 +1,46 @@
+INFO [2022-01-14 07:51:45] $x
+INFO [2022-01-14 07:51:45] list(activity_id, sleep_id, calories_id, intensities_id, steps_id, 
+INFO [2022-01-14 07:51:45]     heartrate_id)
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $category.names
+INFO [2022-01-14 07:51:45] c("Activity Monitor", "Sleep Monitor", "Calories Count", "Intensities Monitor", 
+INFO [2022-01-14 07:51:45]     "Steps Count", "Heart Rate Monitor")
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $filename
+INFO [2022-01-14 07:51:45] [1] "features_venn.png"
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $output
+INFO [2022-01-14 07:51:45] [1] TRUE
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $imagetype
+INFO [2022-01-14 07:51:45] [1] "png"
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $lwd
+INFO [2022-01-14 07:51:45] [1] 2
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $fill
+INFO [2022-01-14 07:51:45] c("lightsalmon", "mediumaquamarine", "lightsteelblue", "lightcoral", 
+INFO [2022-01-14 07:51:45]     "khaki", "moccasin")
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $cex
+INFO [2022-01-14 07:51:45] [1] 6
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $fontface
+INFO [2022-01-14 07:51:45] [1] "bold"
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $fontfamily
+INFO [2022-01-14 07:51:45] [1] "sans"
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $cat.cex
+INFO [2022-01-14 07:51:45] [1] 0.7
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $cat.fontface
+INFO [2022-01-14 07:51:45] [1] "bold"
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $cat.default.pos
+INFO [2022-01-14 07:51:45] [1] "outer"
+INFO [2022-01-14 07:51:45] 
+INFO [2022-01-14 07:51:45] $cat.fontfamily
+INFO [2022-01-14 07:51:45] [1] "sans"
+INFO [2022-01-14 07:51:45] 
+ERROR [2022-01-14 07:51:45] Incorrect number of elements.
