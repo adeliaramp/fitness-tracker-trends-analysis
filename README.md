@@ -183,7 +183,7 @@ hourly_calories <- hourly_calories %>%
   drop_na()
 ```
 
-After the entire process, we should check if the duplicates were
+After the entire process, we should check if the duplicates were removed.
 
 ### **6. Change The Faulty Data Types**
 After knowing each data type of the data frame, we should have known if there was any incorrect data type. In this step, we need to correct them.
